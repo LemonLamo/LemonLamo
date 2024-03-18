@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lamia koucem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamia koucem" height="30" width="40" /></a>
-<a href="https://discord.gg/lemonlamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lemonlamo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lamia-koucem-1a4447260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamia koucem" height="30" width="40" /></a>
+<a href="https://discord.gg/WvxFsJhF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lemonlamo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
